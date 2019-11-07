@@ -1,7 +1,13 @@
-body{
-	background-color: yellow;
+
+.borda{
+
+ 	flex-flow:row nowrap;
+    justify-content:space-between;
+    align-items:flex-start;
+    align-content:space-around;
+    width: 1000px;
+    height: 304px;
 	position: relative;
-width: 1350px;
-margin: 0 auto;
-height:500px;
+	margin: 0 auto;
+
 }
